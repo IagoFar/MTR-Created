@@ -1,0 +1,13 @@
+name = "MTR:Created"
+author = "X341"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2a5d1a255c828f9a6fce0f40671c6416ac9e3758d1865e89c5e462880f85da92"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.19.2"

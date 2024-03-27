@@ -1,0 +1,13 @@
+name = "MTR Utility"
+filename = "MTRUtility-fabric-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dwSRJxa5/versions/8AduQh4f/MTRUtility-fabric-1.19.2-1.0.0.jar"
+hash-format = "sha1"
+hash = "5117a35b55efb8ea0181e9a3e0dd2af0c5e745d3"
+
+[update]
+[update.modrinth]
+mod-id = "dwSRJxa5"
+version = "8AduQh4f"

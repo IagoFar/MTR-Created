@@ -1,0 +1,13 @@
+name = "MTR Sign Addon"
+filename = "MTR+addon+sign+0.9 (1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jmW51wvT/versions/xPUG38gZ/MTR%2Baddon%2Bsign%2B0.9%20%281%29.jar"
+hash-format = "sha1"
+hash = "0cffaa5256f9ffe3a9bda9e25e09fa41ceb24643"
+
+[update]
+[update.modrinth]
+mod-id = "jmW51wvT"
+version = "xPUG38gZ"
